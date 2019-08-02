@@ -26,7 +26,7 @@ The project aims to develop methods to employ deep learning to recognize and int
 
 ## Author:
 - Kohulan Rajan
-  - [github page](github.com/Kohulan)
+  - [github page](https://github.com/Kohulan)
   - [Profile](https://cheminf.uni-jena.de/members/kohulan-rajan/)
 
 ## Research Group
