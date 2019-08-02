@@ -31,5 +31,6 @@ The project aims to develop methods to employ deep learning to recognize and int
 
 ## Research Group
 - [Website](cheminf.uni-jena.de)
-
-![cheminf]({{ site.url }}/assets/CheminfGit.png)
+<img src="https://github.com/Kohulan/Decimer-Official-Site/tree/master/assets/CheminfGit.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
