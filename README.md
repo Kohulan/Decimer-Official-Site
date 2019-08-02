@@ -32,4 +32,4 @@ The project aims to develop methods to employ deep learning to recognize and int
 ## Research Group
 - [Website](cheminf.uni-jena.de)
 
-![cheminf]({{ site.url }}/Picture1s.png)
+![cheminf]({{ site.url }}/CheminfGit.png)
