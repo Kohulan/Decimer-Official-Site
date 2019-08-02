@@ -30,8 +30,6 @@ The project aims to develop methods to employ deep learning to recognize and int
   - [Profile](https://cheminf.uni-jena.de/members/kohulan-rajan/)
 
 ## Research Group
-- [Website!](cheminf.uni-jena.de)
----
-image: /assets/CheminfGit.png
----
-[cheminf]({{ site.url }}/assets/CheminfGit.png)
+- [Website](cheminf.uni-jena.de)
+
+![cheminf]({{ site.url }}/assets/CheminfGit.png)
