@@ -11,14 +11,14 @@ The project aims to develop methods to employ deep learning to recognize and int
 
 ### Project Repository
 
-- DECIMER - Python (Developing stage)
+- [DECIMER - Python](https://github.com/Kohulan/Decimer-Python) (Developmental stage)
   - This repository hosts the python scripts written throughout the project.
   
-- DECIMER - Java (Developing stage)
+- [DECIMER - Java](https://github.com/Kohulan/DECIMER) (Developmental stage)
   - This repository hosts the JAVA scripts written throughout the project.
   - NOTE: Documentation ongoing..
   
-- CUDA installation instructions
+- [CUDA installation instructions](https://github.com/Kohulan/CUDA-10-with-Tensoflow2.0-Installation-Guide)
   - This repository hosts the step by step guide to install nVidia Drivers, CUDA drivers and Tensorflow 2.0
 
 ## License:
