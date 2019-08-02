@@ -31,4 +31,4 @@ The project aims to develop methods to employ deep learning to recognize and int
 
 ## Research Group
 - [Website](cheminf.uni-jena.de)
-![CheminfJena](https://github.com/Kohulan/Decimer-Official-Site/blob/master/Picture1s.png)
+[[https://github.com/Kohulan/Decimer-Official-Site/blob/master/Picture1s.png|alt=Picture1a]]
