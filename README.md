@@ -33,5 +33,5 @@ The project aims to develop methods to employ deep learning to recognize and int
 - [Website](cheminf.uni-jena.de)
 
 <img src="https://github.com/Kohulan/Decimer-Official-Site/tree/master/assets/CheminfGit.png"
-     alt="Cheminformatica logo"
+     alt="Cheminf Uni-Jena logo"
      style="float: left; margin-right: 100px;" />
