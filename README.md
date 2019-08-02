@@ -28,3 +28,6 @@ The project aims to develop methods to employ deep learning to recognize and int
 - Kohulan Rajan
   - [github page](github.com/Kohulan)
   - [Profile](https://cheminf.uni-jena.de/members/kohulan-rajan/)
+
+## Research Group
+![CheminfJena](https://github.com/Kohulan/Decimer-Official-Site/blob/master/Picture1s.png)
