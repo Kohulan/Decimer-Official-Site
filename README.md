@@ -6,8 +6,8 @@ The project aims to develop methods to employ deep learning to recognize and int
 
 ### The project is co-supervised by,
 
-- Prof. Christoph Steinbeck, Friedrich Schiller University, Jena.
-- Prof. Achim Zielesny, Westphalian University of Applied Sciences, Recklinghausen.
+- [Prof. Christoph Steinbeck](https://cheminf.uni-jena.de/members/steinbeck/), Friedrich Schiller University, Jena.
+- [Prof. Achim Zielesny](https://www.w-hs.de/service/informationen-zur-person/person/zielesny/), Westphalian University of Applied Sciences, Recklinghausen.
 
 ### Project Repository
 
@@ -30,4 +30,5 @@ The project aims to develop methods to employ deep learning to recognize and int
   - [Profile](https://cheminf.uni-jena.de/members/kohulan-rajan/)
 
 ## Research Group
+- [Website](cheminf.uni-jena.de)
 ![CheminfJena](https://github.com/Kohulan/Decimer-Official-Site/blob/master/Picture1s.png)
