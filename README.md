@@ -1,5 +1,7 @@
 # DECIMER
-The official project page of DECIMER: Deep Learning for Chemical Image Recognition
+                        The official project page of DECIMER: Deep Learning for Chemical Image Recognition
+                
+![GitHub Logo](https://github.com/Kohulan/DECIMER-Image-to-SMILES/blob/master/assets/DECIMER_logo.png?raw=true)
 
 ## Description
 The project aims to develop methods to employ deep learning to recognize and interpret chemical structure from images in the printed and online literature with the aim of re-discovering scientific facts about natural products and their meta-data. The method, of course, will be generically applicable to most organic chemistry publications.
@@ -28,6 +30,9 @@ The project aims to develop methods to employ deep learning to recognize and int
 - Kohulan Rajan
   - [github page](https://github.com/Kohulan)
   - [Profile](https://cheminf.uni-jena.de/members/kohulan-rajan/)
+
+## Project Website
+- [DECIMER](https://kohulan.github.io/Decimer-Official-Site/)
 
 ## Research Group
 - [Website](https://cheminf.uni-jena.de)
