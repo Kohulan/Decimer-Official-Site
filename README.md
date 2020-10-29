@@ -13,13 +13,15 @@ The project aims to develop methods to employ deep learning to recognize and int
 
 ### Project Repository
 
+- [DECIMER - OCSR Review](https://github.com/Kohulan/OCSR_Review)
+  - An initial work done by us to review and benchmark the open-source OCSR(Optical Chemical Structure Recognition) systems available
+- [DECIMER - Image to Smiles](https://github.com/Kohulan/DECIMER-Image-to-SMILES)(Pre release - Preliminary report available)
+  - The repository contains the network and the related scripts for auto-encoder based Chemical Image Recognition
 - [DECIMER - Python](https://github.com/Kohulan/Decimer-Python) (Developmental stage)
   - This repository hosts the python scripts written throughout the project.
-  
 - [DECIMER - Java](https://github.com/Kohulan/DECIMER) (Developmental stage)
   - This repository hosts the JAVA scripts written throughout the project.
-  - NOTE: Documentation ongoing..
-  
+
 - [CUDA installation instructions](https://github.com/Kohulan/CUDA-10-with-Tensoflow2.0-Installation-Guide)
   - This repository hosts the step by step guide to install nVidia Drivers, CUDA drivers and Tensorflow 2.0
 
